@@ -1,6 +1,12 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Pothole Detector",
+  "name": "Application for detecting potholes on the go",
+  "authors":[
+    {
+      "0": "Nirbhay Pherwani",
+      "1": "Dhiren Chandnani"
+    }
+  ],
   "icons": [
     {
       "src": "favicon.ico",

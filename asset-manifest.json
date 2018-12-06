@@ -1,7 +1,7 @@
 {
   "main.css": "/pothole-detection/static/css/main.7bcbf6d6.chunk.css",
-  "main.js": "/pothole-detection/static/js/main.b7bb49e2.chunk.js",
-  "main.js.map": "/pothole-detection/static/js/main.b7bb49e2.chunk.js.map",
+  "main.js": "/pothole-detection/static/js/main.2c381f9e.chunk.js",
+  "main.js.map": "/pothole-detection/static/js/main.2c381f9e.chunk.js.map",
   "static/css/1.9fbc88e7.chunk.css": "/pothole-detection/static/css/1.9fbc88e7.chunk.css",
   "static/js/1.47b52ddb.chunk.js": "/pothole-detection/static/js/1.47b52ddb.chunk.js",
   "static/js/1.47b52ddb.chunk.js.map": "/pothole-detection/static/js/1.47b52ddb.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.9fbc88e7.chunk.css.map": "/pothole-detection/static/css/1.9fbc88e7.chunk.css.map",
   "static/css/main.7bcbf6d6.chunk.css.map": "/pothole-detection/static/css/main.7bcbf6d6.chunk.css.map",
   "index.html": "/pothole-detection/index.html",
-  "precache-manifest.d28abf0309ab58ee9862f862114e165a.js": "/pothole-detection/precache-manifest.d28abf0309ab58ee9862f862114e165a.js",
+  "precache-manifest.1c39fe0d6d7791dad1bd03e4ab1fb417.js": "/pothole-detection/precache-manifest.1c39fe0d6d7791dad1bd03e4ab1fb417.js",
   "service-worker.js": "/pothole-detection/service-worker.js"
 }
