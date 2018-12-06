@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pothole-detection/precache-manifest.30397af52e604fe27482fedc42c8faaf.js"
+  "/pothole-detection/precache-manifest.402867ceb3d3234331fe3d79fedcd5d4.js"
 );
 
 workbox.clientsClaim();
