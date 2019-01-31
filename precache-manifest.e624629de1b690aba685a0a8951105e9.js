@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/pothole-detection/static/js/runtime~main.d85dab5c.js"
   },
   {
-    "revision": "fb16ecbef2b6c46c0359",
-    "url": "/pothole-detection/static/js/main.fb16ecbe.chunk.js"
+    "revision": "878fe5c83a1f511472be",
+    "url": "/pothole-detection/static/js/main.878fe5c8.chunk.js"
   },
   {
     "revision": "14f86c2e8e13c6706ee3",
     "url": "/pothole-detection/static/js/1.14f86c2e.chunk.js"
   },
   {
-    "revision": "fb16ecbef2b6c46c0359",
+    "revision": "878fe5c83a1f511472be",
     "url": "/pothole-detection/static/css/main.7bcbf6d6.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pothole-detection/static/css/1.9fbc88e7.chunk.css"
   },
   {
-    "revision": "1bfdd048ca36e5bc9dfa8b12a3f4afa7",
+    "revision": "2d2fe5e196165a9ce2f678a23eab33ee",
     "url": "/pothole-detection/index.html"
   }
 ];
