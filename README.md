@@ -8,4 +8,4 @@ When we look at the other side of the world, there is a similar situation as rep
 
 Maintaining the road condition while keeping a track of damages is a challenge with constant weather changes, low budgets for the municipalities. Not to forget keeping the people informed is a task. This project was aimed at solving the challenges mentioned.
 
-Visit https://pothole.ml to know more.
+Visit https://pothole.ml or https://www.linkedin.com/feed/update/urn:li:ugcPost:6498400891610099712 to know more.
